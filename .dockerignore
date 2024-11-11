@@ -1,0 +1,27 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore logs and temporary files
+*.log
+logs/
+
+# Ignore local environment files
+.env
+
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore Docker-specific files
+Dockerfile
+.dockerignore
+
+# Ignore QR code output if you don’t want to include them in the build
+qr_codes/
+
