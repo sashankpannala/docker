@@ -1,2 +1,2 @@
 # docker
-<img width="402" alt="Screenshot" src="https://github.com/sashankpannala/docker/blob/main/qr_code_log.png">
+<img width="867" alt="qr_code_log" src="https://github.com/user-attachments/assets/61c33219-5e30-4e0d-9943-22685d7acfa5">
